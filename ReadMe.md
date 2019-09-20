@@ -6,6 +6,8 @@ This is the place for my following presentation:
 
 [https://tam07pb915.github.io/2019SLRF/Xaringan-slides.html](https://tam07pb915.github.io/2019SLRF/Xaringan-slides.html)
 
+* Please note that the slides are only available online. I do not recommend downloading the HTML file and look at it on you computer. You could still see the slides, but it looks different and the figures are not available. 
+
 * Reference.md is the reference list from my presentation
 
 ### Contact
